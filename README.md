@@ -38,23 +38,9 @@ Here are some ideas to get you started:
 - 🥅 &nbsp; 2022 Goals: Work more on the [Chadi Acadmey](https://comming soon/) to improve the quality of events.
 - 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/Chadi7781/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;
-  <a href="https://linkedin.com/in/chaditroudi">
-  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
-  </a>
 - 😄 &nbsp; Pronouns: ... He/Him/His
 - 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
 
-<details>	
-  <summary><b>🏆 Github Trophies</b></summary>
-	
-  <div align="center"> 
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Chadi7781&theme=gruvbox" alt="github-profile-trophy"
-      height="180em"
-    />
-    <!-- &title=MultiLanguage,Commit,Repositories,Issues -->
-	</div>
-</details>
 
 <details>	
   <summary><b>📈 Github Stats</b></summary>
@@ -110,11 +96,11 @@ Here are some ideas to get you started:
 
 <p align = "center">
   
-[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Chadi7781) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/chaditroudi)
-[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/shado.troudi)
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Mounir-Ben-Romdhane) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mounir ben romdhane)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/Mounir Ben Romdhane)
 
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:chadi.troudi@esprit.tn)
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mounir.benromdhane@esprit.tn)
 
 
 </p>
@@ -124,17 +110,17 @@ Here are some ideas to get you started:
 
 
 -----
-Credits: [Chadi Troudi](https://github.com/AhmedHammami7)
+Credits: [Mounir-Ben-Romdhane]
 
 
 <p align="center">
-  <a href="https://github.com/Chadi7781">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chadi7781&count_private=true&hide_border=true&show_icons=true" alt="Chadi7781's github stats">
+  <a href="https://github.com/Mounir-Ben-Romdhane">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&count_private=true&hide_border=true&show_icons=true" alt="Mounir-Ben-Romdhane's github stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Chadi7781">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chadi7781&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Chadi7781's github stats">
+  <a href="https://github.com/Mounir-Ben-Romdhane">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Mounir-Ben-Romdhane's github stats">
   </a>
 </p>
 -->
