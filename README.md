@@ -8,35 +8,19 @@
  </p>
 
 
-<!--
-**Mounir-Ben-Romdhane/Mounir-Ben-Romdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="./assets/cat.gif" width="50" draggable="false"> About me
 
 - 🔭 &nbsp; I’m currently working on understanding myself...
-- 📝 &nbsp; I write stuff at [dev.to/chadi](https://dev.to/chadi).
-- 📺 &nbsp; I do some technical/mentor videos at <a href="https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1">
-<img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
 <!-- - 👨🏻‍🎓 &nbsp; I graduated with a Bachelor's degree in Computer Science from [ISAMM](http://www.isa2m.rnu.tn/). -->
-- 🎓 &nbsp; I’m currently studying Engineer's degree in Computer Science majoring in Software Engineering [@ESPRIT University](https://esprit.tn/).
+- 🎓 &nbsp; I’m currently studying Engineer's degree Software Engineering [@ESPRIT University](https://esprit.tn/).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chadi7781).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
-- 🥅 &nbsp; 2022 Goals: Work more on the [Chadi Acadmey](https://comming soon/) to improve the quality of events.
-- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/Chadi7781/ama)! I will be happy to help.
+- 🥅 &nbsp; 2022 Goals: *********.
+- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/Mounir-Ben-Romdhane/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;
 - 😄 &nbsp; Pronouns: ... He/Him/His
 - 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
@@ -123,4 +107,4 @@ Credits: [Mounir-Ben-Romdhane]
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Mounir-Ben-Romdhane's github stats">
   </a>
 </p>
--->
+
