@@ -101,8 +101,5 @@ Credits: [Mounir-Ben-Romdhane]
   <a href="https://github.com/Mounir-Ben-Romdhane">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Mounir-Ben-Romdhane's github stats">
   </a>
-	<a href="https://github.com/Mounir-Ben-Romdhane">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Mounir-Ben-Romdhane's github stats">
-  </a>
 </p>
 
