@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
 
 	
-<h1 align="center" style="color: #F762DBFF"><b>Hi 👋, I'm Mounir Ben Romdhane </b></h1>
+<h1 align="center" style="color: #F762DBFF">Hi 👋, I'm Mounir Ben Romdhane </h1>
 
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=Passionate+Programmer+from+Tunisia;Full-Stack+web+developer;Young+Software+Engineer+Student;Self-Finder+and+Instructor;Always+learning+new+things" alt="Typing SVG" /></a>
