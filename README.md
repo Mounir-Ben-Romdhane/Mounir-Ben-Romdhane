@@ -103,14 +103,12 @@
 
 [![An image of @mounirbenromdhane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mounirbenromdhane)](https://holopin.io/@mounirbenromdhane)
 
------
-Credits: [Mounir-Ben-Romdhane]
+![Mounir-Ben-Romdhane's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mounir-Ben-Romdhane&custom_title=Mounir-Ben-Romdhane's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="center">
-  <a href="https://github.com/Mounir-Ben-Romdhane">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&hide_border=true&show_icons=true" alt="Mounir-Ben-Romdhane's github stats">
-  </a>
-</p>
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Mounir Ben Romdhane</a></p>
 
 
