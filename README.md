@@ -36,63 +36,10 @@
 
 <br>
 
-<table>
-<tr>
-  <td valign="center">
-	
- <details>	
-  <summary><b>📈 Github Stats</b></summary>
-</details>
-<a align="center" href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mounir-Ben-Romdhane's github stats" /></a> | <a href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-</td>
-<td valign="center" >
+<details> 
+<summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***</h2></summary>
 
-   <div align="center">
-      <h3 >My daily.dev card 🎴 </h3>
-<a href="https://app.daily.dev/benromdhanemounir"><img src="https://api.daily.dev/devcards/792b2724db8e49d99716c02d69881249.png?r=o2b" width="400" alt="Ben Romdhane Mounir's Dev Card"/></a>
-  </td>
-
-</tr>
-</table>
-
-
-
-<h3 align="center">Languages and Frameworks</h3>
-<br>
-
-
-<hr>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
-  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg>
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg">
-  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg">
- 
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
- 
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
- 
-  <img height="70" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
-<br>
-  <hr>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
 
 <p align = "center">
   
@@ -106,7 +53,7 @@
 ![Mounir-Ben-Romdhane's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mounir-Ben-Romdhane&custom_title=Mounir-Ben-Romdhane's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br>
 
-
+</details> 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
