@@ -34,7 +34,6 @@
 - 😄 &nbsp; Pronouns: ... He/Him/His
 - 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
 
-</p>
 <br>
 <details>	
   <summary><b>📈 Github Stats</b></summary>
