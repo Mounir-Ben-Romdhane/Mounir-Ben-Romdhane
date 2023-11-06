@@ -3,11 +3,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 	
-<h1 align="center" color="white"><b>Hi 👋, I'm Mounir Ben Romdhane </b></h1>
-<h3 align="center">A passionate Programmer from Tunisia</h3>
+<h1 align="center"><b>Hi 👋, I'm Mounir Ben Romdhane </b></h1>
+
 <p align="center">
- I'm a Young Software Engineer Student at Esprit University, Self-Finder and Instructor from Tunis, Tunisia . 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=45&pause=1000&color=2272F7&random=false&width=435&lines=Passionate+Programmer+from+Tunis%2C+Tunisia;Full-Stack+web+developer;Young+Software+Engineer+Student;Self-Finder+and+Instructor;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane">
    <img align="right" src="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
