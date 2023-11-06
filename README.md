@@ -38,7 +38,7 @@
 
 
 <details> 
-<summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me...</h2></summary>
+<summary>🌟 Connect with me...</h2></summary>
 
 
 <p align = "center">
