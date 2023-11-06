@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi 👋, I'm Mounir Ben Romdhane </b></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=Passionate+Programmer+from+Tunisia;Full-Stack+web+developer;Young+Software+Engineer+Student;Self-Finder+and+Instructor;Always+learning+new+things" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=Passionate+Programmer+from+Tunisia;Full-Stack+web+developer;Young+Software+Engineer+Student;Self-Finder+and+Instructor;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
