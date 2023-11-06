@@ -109,7 +109,7 @@ Credits: [Mounir-Ben-Romdhane]
 
 <p align="center">
   <a href="https://github.com/Mounir-Ben-Romdhane">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&count_private=true&hide_border=true&show_icons=true" alt="Mounir-Ben-Romdhane's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&hide_border=true&show_icons=true" alt="Mounir-Ben-Romdhane's github stats">
   </a>
 </p>
 
