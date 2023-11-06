@@ -102,7 +102,6 @@
 <h3 align="left">Achievements:</h3>
 
 [![An image of @mounirbenromdhane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mounirbenromdhane)](https://holopin.io/@mounirbenromdhane)
-<br><br><br>
 
 -----
 Credits: [Mounir-Ben-Romdhane]
