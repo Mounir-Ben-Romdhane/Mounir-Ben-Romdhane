@@ -1,7 +1,7 @@
 ![logo](logo.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<a href="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane">
+
 
 
 	
@@ -9,13 +9,14 @@
 <h3 align="center">A passionate Programmer from Tunisia</h3>
 <p align="center">
  I'm a Young Software Engineer Student at Esprit University, Self-Finder and Instructor from Tunis, Tunisia . 
+ </p>
+ <p align="center">
+<a href="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane">
    <img align="right" src="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018ba1c5-fe7e-4872-88e0-291c793a183a.svg)](https://wakatime.com/@018ba1c5-fe7e-4872-88e0-291c793a183a)
- </p>
-
-
+</p>
 
 
 - 🔭 &nbsp; I’m currently working on understanding myself...
