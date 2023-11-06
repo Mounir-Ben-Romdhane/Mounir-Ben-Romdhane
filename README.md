@@ -37,10 +37,8 @@
 <br>
 <details>	
   <summary><b>📈 Github Stats</b></summary>
-
-<a href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mounir-Ben-Romdhane's github stats" /></a> | <a href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&theme=buefy&hide_border=true" /></a> 
-
 </details>
+<a align="center" href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mounir-Ben-Romdhane's github stats" /></a> | <a href="https://github.com/Mounir-Ben-Romdhane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 <h3 align="center">Languages and Frameworks</h3>
 <br>
