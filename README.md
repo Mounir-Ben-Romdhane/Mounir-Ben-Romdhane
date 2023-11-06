@@ -49,8 +49,7 @@
 
    <div align="center">
       <h3 >My daily.dev card 🎴 </h3>
- <a href="https://app.daily.dev/benromdhanemounir"><img src="https://api.daily.dev/devcards/792b2724db8e49d99716c02d69881249.png?r=7vk" width="400" alt="Ben Romdhane Mounir's Dev Card"/></a>
- </div>
+<a href="https://app.daily.dev/benromdhanemounir"><img src="https://api.daily.dev/devcards/792b2724db8e49d99716c02d69881249.png?r=o2b" width="400" alt="Ben Romdhane Mounir's Dev Card"/></a>
   </td>
 
 </tr>
