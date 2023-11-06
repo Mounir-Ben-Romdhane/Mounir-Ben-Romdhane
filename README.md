@@ -38,7 +38,7 @@
 
 
 <details> 
-<summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***</h2></summary>
+<summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me...</h2></summary>
 
 
 <p align = "center">
@@ -50,8 +50,6 @@
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mounir.benromdhane@esprit.tn)
 </p>
 
-![Mounir-Ben-Romdhane's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mounir-Ben-Romdhane&custom_title=Mounir-Ben-Romdhane's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br>
 
 </details> 
 <details> 
