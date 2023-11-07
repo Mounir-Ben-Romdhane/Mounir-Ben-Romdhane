@@ -18,7 +18,7 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=Mounir-Ben-Romdhane&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!--[![wakatime](https://wakatime.com/badge/user/018ba1c5-fe7e-4872-88e0-291c793a183a.svg)](https://wakatime.com/@018ba1c5-fe7e-4872-88e0-291c793a183a)-->
+[![wakatime](https://wakatime.com/badge/user/018ba1c5-fe7e-4872-88e0-291c793a183a.svg)](https://wakatime.com/@018ba1c5-fe7e-4872-88e0-291c793a183a)
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
