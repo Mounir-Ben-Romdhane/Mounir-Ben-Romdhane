@@ -83,7 +83,7 @@
     <!--  <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a> -->
       <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Ar"><img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg](https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true)" /></a>
+	<a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Adart"> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>
       <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%Mounir-Ben-Romdhane+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
