@@ -178,6 +178,15 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
+  <div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
+</div>
+
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
