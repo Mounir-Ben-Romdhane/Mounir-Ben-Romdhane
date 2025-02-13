@@ -187,11 +187,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mounir-Ben-Romdhane&theme=2077" height="180em" />
 </div>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- https://github.com/anuraghazra/github-readme-stats
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-Ben-Romdhane&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mounir-Ben-Romdhane&show_icons=true&theme=radical)-->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ben_Romdhane_Mounir)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 <br>
 <table>
 <tr>
@@ -207,7 +208,7 @@
   </td>
 
 </tr>
-</table>
+</table>-->
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
